@@ -6,8 +6,10 @@ __pycache__/
 *.pyc
 
 # Ignora variáveis de ambiente
-.env
+*.env
+**/.env
+notebooks/.env
 
-# Ignora arquivos temporários de sistema
+# Ignora arquivos temporários do sistema
 .DS_Store
 Thumbs.db
