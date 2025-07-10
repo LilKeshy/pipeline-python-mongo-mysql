@@ -1,0 +1,10 @@
+## Requerimentos ##
+
+pandas>=1.5.0
+mysql-connector-python>=8.0.30
+pymongo>=4.3.3
+python-dotenv>=1.0.0
+
+## Rode o seguinte comando no terminal para instalar as dependências: ##
+
+pip install -r requirements.txt
